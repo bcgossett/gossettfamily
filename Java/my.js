@@ -1,3 +1,3 @@
   $.backstretch([
-     "http://teachingkidsnews.com/wp-content/uploads/2012/09/Family_Portrait_.jpg"
+     img="img/img_8448.jpg"
    ], {duration: 6000, fade: 1000});
