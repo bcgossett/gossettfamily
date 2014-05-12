@@ -1,3 +1,3 @@
   $.backstretch([
-     img="gossettfamily/img/IMG_8448.jpg"], {fade: 1000});
+     img="java/img/IMG_8448.jpg"], {fade: 1000});
 
